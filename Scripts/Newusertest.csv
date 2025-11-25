@@ -1,0 +1,11 @@
+FirstName,LastName,Name,Company,Department,Title,Telephone,Address,City,State,ZipCode,Country,OfficeName,email,password,OU
+Hkay,Mentor,HMR,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+Tosin,Kolawole,Tonesky,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+Tech,Guru,Godday,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+MrD,Ola,Chase,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+My,Woman,Mine,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+Abigail,MyD,Aurora,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+Tolu,MKE,TeeG,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+Dami,Bukola,Damcut,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+Sharp,Razor,Blade,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"
+David,Moore,Dave,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMR"KTechcyber.root.local,Password12345@,"OU=Company,DC=KTechcyber,DC=root,DC=local"

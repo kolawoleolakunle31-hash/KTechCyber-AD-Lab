@@ -1,0 +1,11 @@
+FirstName,LastName,Name,Company,Department,Title,Telephone,Address,City,State,ZipCode,Country,OfficeName,email,password,OU
+Hkay,Mentor,Hklee,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,HMRK"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+Tosin,Kolawole,Tonessky,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Tonesky"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+Tech,Guru,Goodday,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Godday"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+MrD,Ola,Chased,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Chase"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+My,Woman,Minee,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Mine"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+Abigail,MyD,Aurorah,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Aurora"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+Tolu,MKE,TeeGe,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,TeeG"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+Dami,Bukola,Damcute,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Damcut"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+Sharp,Razor,Blad,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Blade"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"
+David,Moore,Davy,KTech Cyber,IT,Analyst,08133417659,4 Aduke seriki,Ikotun,Lagos,01234,Nigeria,HQ,Dave"KTechcyber.root.local,Password12345@,"OU=Users,OU=Project,DC=KTechcyber,DC=root,DC=local"

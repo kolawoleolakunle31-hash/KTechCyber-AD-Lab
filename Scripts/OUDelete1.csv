@@ -1,0 +1,12 @@
+Name,Path
+Home,"OU=Home,DC=KTechcyber,DC=root,DC=local"
+Church,"OU=Church,DC=KTechcyber,DC=root,DC=local"
+PSchool,"OU=PSchool,DC=KTechcyber,DC=root,DC=local"
+SSchool,"OU=SSchool,DC=KTechcyber,DC=root,DC=local"
+College,"OU=College,DC=KTechcyber,DC=root,DC=local"
+University,"OU=University,DC=KTechcyber,DC=root,DC=local"
+IT,"OU=IT,DC=KTechcyber,DC=root,DC=local"
+NYSC,"OU=NYSC,DC=KTechcyber,DC=root,DC=local"
+Done,"OU=Done,DC=KTechcyber,DC=root,DC=local"
+Work,"OU=Work,DC=KTechcyber,DC=root,DC=local"
+Family,"OU=Family,DC=KTechcyber,DC=root,DC=local"
