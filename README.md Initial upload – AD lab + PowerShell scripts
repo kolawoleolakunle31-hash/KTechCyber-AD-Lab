@@ -1,0 +1,24 @@
+# KTechCyber-AD-Lab
+# Active Directory & PowerShell Home Lab 🛡️
+
+Fully functional Active Directory environment running on my local machine with automated PowerShell scripts.
+
+Lab Overview
+- Windows Server 2022 as Domain Controller
+- Custom domain: `KTECHCYBER.local`
+- 10+ test users and groups
+- Group Policy Objects (GPO) for password policy, software restriction
+- PowerShell automation scripts
+
+Scripts Included
+- User creation bulk script
+- Password reset automation
+- Group membership management
+- AD health check report
+
+Screenshots
+![Domain Overview](Screenshots/domain-overview.png)
+![Users & Groups](Screenshots/users-groups.png)
+![GPO Settings](Screenshots/gpo.png)
+
+Email me: Kolawoleolakunle31@gmail.com
