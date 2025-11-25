@@ -1,26 +1,34 @@
-# KTechCyber-AD-Lab
-# Active Directory & PowerShell Home Lab 🛡️
+# KTechCyber Active Directory & PowerShell Homelab 🛡️
 
-Fully functional Active Directory environment running on my local machine with automated PowerShell scripts.
+Fully functional **Windows Server 2022 Active Directory** lab with real-world PowerShell automation scripts – built from scratch.
 
-Lab Overview
-- Windows Server 2022 as Domain Controller
-- Custom domain: `KTECHCYBER.local`
-- 10+ test users and groups
-- Group Policy Objects (GPO) for password policy, software restriction
-- PowerShell automation scripts
+## 🖥️ Lab Architecture
+- Domain Controller: Windows Server 2022 (Evaluation)
+- Domain: `KTECHCYBER.local`
+- 50+ test users & organizational units
+- Nested groups + proper delegation
+- Group Policy Objects (Password Policy, Account Lockout, Software Restriction)
+- NTFS permissions automation
 
-Scripts Included
-- User creation bulk script
-- Password reset automation
-- Group membership management
-- AD health check report
+## 🚀 PowerShell Scripts Included
+| Script | Purpose |
+|------|--------|
+| `Bulk-Create-Users.ps1` | Creates 50+ users from CSV with random passwords |
+| `Add-Users-To-Groups.ps1` | Automatic group membership based on department |
+| `Set-NTFS-Permissions.ps1` | Applies folder permissions recursively |
+| `Reset-User-Passwords.ps1` | Bulk password reset + force change at logon |
+| `AD-Health-Check.ps1` | Generates HTML report of domain health |
 
-Screenshots
-![Domain Overview](Screenshots/domain-overview.png)
-![Users & Groups](Screenshots/users-groups.png)
-![GPO Settings](Screenshots/gpo.png)
+## 🔐 Security Features
+- Fine-grained password policies via PSO
+- Restricted groups via GPO
+- Automated NTFS permission hardening
+- Disabled unnecessary services on DC
 
-Open to feedback and always improving.
+## 📸 Screenshots
+<img src="Screenshots/DC-Promotion.jpg" width="400"/> <img src="Screenshots/Users-Created.jpg" width="400"/>
+<img src="Screenshots/GPO-Applied.jpg" width="400"/> <img src="Screenshots/NTFS-Permissions.jpg" width="400"/>
 
-Email me: Kolawoleolakunle31@gmail.com
+## 📧 Contact
+**Kolawole Olakunle**  
+📧 kolawoleolakunle31@gmail.com
